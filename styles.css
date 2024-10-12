@@ -17,49 +17,49 @@ footer {
 }
 
 .w {
-  background-image: url('./images/tom1.png');
+  background-image: url('tom1.png');
 }
 .w:hover{
   opacity: 80%;
 }
 
 .a {
-  background-image: url('./images/tom2.png');
+  background-image: url('tom2.png');
 }
 .a:hover{
   opacity: 80%;
 }
 
 .s {
-  background-image: url('./images/tom3.png');
+  background-image: url('tom3.png');
 }
 .s:hover{
   opacity: 80%;
 }
 
 .d {
-  background-image: url('./images/tom4.png');
+  background-image: url('tom4.png');
 }
 .d:hover{
   opacity: 80%;
 }
 
 .j {
-  background-image: url('./images/snare.png');
+  background-image: url('snare.png');
 }
 .j:hover{
   opacity: 80%;
 }
 
 .k {
-  background-image: url('./images/crash.png');
+  background-image: url('crash.png');
 }
 .k:hover{
   opacity: 80%;
 }
 
 .l {
-  background-image: url('./images/kick.png');
+  background-image: url('kick.png');
 }
 .l:hover{
   opacity: 80%;
